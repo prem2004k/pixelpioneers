@@ -1,0 +1,22 @@
+[33mcommit 034e129ff4548c2dfb5919d900dde0a11534d602[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: prem2004k <149878105+prem2004k@users.noreply.github.com>
+Date:   Tue May 28 05:07:09 2024 +0000
+
+    Adding the HTML and CSS files
+
+ src/banner.jpg | Bin [31m0[m -> [32m186093[m bytes
+ src/index.html | 181 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ src/styles.css | 162 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ src/team.jpg   | Bin [31m0[m -> [32m398104[m bytes
+ 4 files changed, 343 insertions(+)
+
+[33mcommit 3f0484a3f07f574f39898eec670bb84511f7ba94[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: prem2004k <149878105+prem2004k@users.noreply.github.com>
+Date:   Sun May 26 11:22:14 2024 +0530
+
+    Initial commit
+
+ .gitignore | 130 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ LICENSE    |  21 [32m+++++++++++++++++++++[m
+ README.md  |   1 [32m+[m
+ 3 files changed, 152 insertions(+)
